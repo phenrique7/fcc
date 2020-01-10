@@ -39,3 +39,17 @@ img {
     font-size: 36px;
   }
 }
+
+/* new css */
+
+.bg-image {
+  height: 100vh;
+  width: 100%;
+  background-image: url("http://www.theimaginativeconservative.org/wp-content/uploads/2017/06/cs-lewis2.png");
+  background-size: cover;
+}
+
+.bg-image-title {
+  color: #FFFFFF;
+  position: absolute;
+}
